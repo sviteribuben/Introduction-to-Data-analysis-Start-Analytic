@@ -1,3 +1,2 @@
-# skillbox
-# Homeworks from course
+Introduction to Data analysis
 Start Analytic
